@@ -1,0 +1,32 @@
+C:\Users\mikoa\source\repos\59153_I_5\59153_I_5\bin\Debug\netcoreapp3.1\59153_I_5.exe
+C:\Users\mikoa\source\repos\59153_I_5\59153_I_5\bin\Debug\netcoreapp3.1\59153_I_5.deps.json
+C:\Users\mikoa\source\repos\59153_I_5\59153_I_5\bin\Debug\netcoreapp3.1\59153_I_5.runtimeconfig.json
+C:\Users\mikoa\source\repos\59153_I_5\59153_I_5\bin\Debug\netcoreapp3.1\59153_I_5.runtimeconfig.dev.json
+C:\Users\mikoa\source\repos\59153_I_5\59153_I_5\bin\Debug\netcoreapp3.1\59153_I_5.dll
+C:\Users\mikoa\source\repos\59153_I_5\59153_I_5\bin\Debug\netcoreapp3.1\59153_I_5.pdb
+C:\Users\mikoa\source\repos\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.csproj.AssemblyReference.cache
+C:\Users\mikoa\source\repos\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.csproj.GenerateResource.cache
+C:\Users\mikoa\source\repos\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikoa\source\repos\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.AssemblyInfoInputs.cache
+C:\Users\mikoa\source\repos\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.AssemblyInfo.cs
+C:\Users\mikoa\source\repos\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.csproj.CoreCompileInputs.cache
+C:\Users\mikoa\source\repos\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.dll
+C:\Users\mikoa\source\repos\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.pdb
+C:\Users\mikoa\source\repos\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.genruntimeconfig.cache
+C:\Users\mikoa\source\repos\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\_59153_I_5.MK_59153_form1.resources
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_5\59153_I_5\59153_I_5\bin\Debug\netcoreapp3.1\59153_I_5.exe
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_5\59153_I_5\59153_I_5\bin\Debug\netcoreapp3.1\59153_I_5.deps.json
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_5\59153_I_5\59153_I_5\bin\Debug\netcoreapp3.1\59153_I_5.runtimeconfig.json
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_5\59153_I_5\59153_I_5\bin\Debug\netcoreapp3.1\59153_I_5.runtimeconfig.dev.json
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_5\59153_I_5\59153_I_5\bin\Debug\netcoreapp3.1\59153_I_5.dll
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_5\59153_I_5\59153_I_5\bin\Debug\netcoreapp3.1\59153_I_5.pdb
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_5\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.csproj.AssemblyReference.cache
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_5\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\_59153_I_5.MK_59153_form1.resources
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_5\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.csproj.GenerateResource.cache
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_5\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_5\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.AssemblyInfoInputs.cache
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_5\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.AssemblyInfo.cs
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_5\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.csproj.CoreCompileInputs.cache
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_5\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.dll
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_5\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.pdb
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_5\59153_I_5\59153_I_5\obj\Debug\netcoreapp3.1\59153_I_5.genruntimeconfig.cache

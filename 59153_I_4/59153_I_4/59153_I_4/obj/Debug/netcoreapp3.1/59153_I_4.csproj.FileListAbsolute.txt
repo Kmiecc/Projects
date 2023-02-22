@@ -1,0 +1,28 @@
+C:\Users\mikoa\source\repos\59153_I_4\59153_I_4\obj\Debug\netcoreapp3.1\59153_I_4.csproj.AssemblyReference.cache
+C:\Users\mikoa\source\repos\59153_I_4\59153_I_4\obj\Debug\netcoreapp3.1\59153_I_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikoa\source\repos\59153_I_4\59153_I_4\obj\Debug\netcoreapp3.1\59153_I_4.AssemblyInfoInputs.cache
+C:\Users\mikoa\source\repos\59153_I_4\59153_I_4\obj\Debug\netcoreapp3.1\59153_I_4.AssemblyInfo.cs
+C:\Users\mikoa\source\repos\59153_I_4\59153_I_4\obj\Debug\netcoreapp3.1\59153_I_4.csproj.CoreCompileInputs.cache
+C:\Users\mikoa\source\repos\59153_I_4\59153_I_4\bin\Debug\netcoreapp3.1\59153_I_4.exe
+C:\Users\mikoa\source\repos\59153_I_4\59153_I_4\bin\Debug\netcoreapp3.1\59153_I_4.deps.json
+C:\Users\mikoa\source\repos\59153_I_4\59153_I_4\bin\Debug\netcoreapp3.1\59153_I_4.runtimeconfig.json
+C:\Users\mikoa\source\repos\59153_I_4\59153_I_4\bin\Debug\netcoreapp3.1\59153_I_4.runtimeconfig.dev.json
+C:\Users\mikoa\source\repos\59153_I_4\59153_I_4\bin\Debug\netcoreapp3.1\59153_I_4.dll
+C:\Users\mikoa\source\repos\59153_I_4\59153_I_4\bin\Debug\netcoreapp3.1\59153_I_4.pdb
+C:\Users\mikoa\source\repos\59153_I_4\59153_I_4\obj\Debug\netcoreapp3.1\59153_I_4.dll
+C:\Users\mikoa\source\repos\59153_I_4\59153_I_4\obj\Debug\netcoreapp3.1\59153_I_4.pdb
+C:\Users\mikoa\source\repos\59153_I_4\59153_I_4\obj\Debug\netcoreapp3.1\59153_I_4.genruntimeconfig.cache
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_4\59153_I_4\59153_I_4\bin\Debug\netcoreapp3.1\59153_I_4.exe
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_4\59153_I_4\59153_I_4\bin\Debug\netcoreapp3.1\59153_I_4.deps.json
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_4\59153_I_4\59153_I_4\bin\Debug\netcoreapp3.1\59153_I_4.runtimeconfig.json
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_4\59153_I_4\59153_I_4\bin\Debug\netcoreapp3.1\59153_I_4.runtimeconfig.dev.json
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_4\59153_I_4\59153_I_4\bin\Debug\netcoreapp3.1\59153_I_4.dll
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_4\59153_I_4\59153_I_4\bin\Debug\netcoreapp3.1\59153_I_4.pdb
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_4\59153_I_4\59153_I_4\obj\Debug\netcoreapp3.1\59153_I_4.csproj.AssemblyReference.cache
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_4\59153_I_4\59153_I_4\obj\Debug\netcoreapp3.1\59153_I_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_4\59153_I_4\59153_I_4\obj\Debug\netcoreapp3.1\59153_I_4.AssemblyInfoInputs.cache
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_4\59153_I_4\59153_I_4\obj\Debug\netcoreapp3.1\59153_I_4.AssemblyInfo.cs
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_4\59153_I_4\59153_I_4\obj\Debug\netcoreapp3.1\59153_I_4.csproj.CoreCompileInputs.cache
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_4\59153_I_4\59153_I_4\obj\Debug\netcoreapp3.1\59153_I_4.dll
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_4\59153_I_4\59153_I_4\obj\Debug\netcoreapp3.1\59153_I_4.pdb
+D:\PulpitV2\VISTULA\semestr 2\programowanie obiektowe\59153_I_4\59153_I_4\59153_I_4\obj\Debug\netcoreapp3.1\59153_I_4.genruntimeconfig.cache
