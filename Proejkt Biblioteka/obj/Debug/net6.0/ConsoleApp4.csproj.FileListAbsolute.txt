@@ -1,0 +1,95 @@
+C:\Users\Daniel\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+C:\Users\Daniel\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+C:\Users\Daniel\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+C:\Users\Daniel\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+C:\Users\Daniel\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\Daniel\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+C:\Users\Daniel\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\refint\ConsoleApp4.dll
+C:\Users\Daniel\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\Daniel\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll
+E:\VSCodeProjects\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+E:\VSCodeProjects\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+E:\VSCodeProjects\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+E:\VSCodeProjects\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+E:\VSCodeProjects\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+E:\VSCodeProjects\ConsoleApp4\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\VSCodeProjects\ConsoleApp4\bin\Debug\net6.0\System.Text.Json.dll
+E:\VSCodeProjects\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+E:\VSCodeProjects\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCodeProjects\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+E:\VSCodeProjects\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CopyComplete
+E:\VSCodeProjects\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+E:\VSCodeProjects\ConsoleApp4\obj\Debug\net6.0\refint\ConsoleApp4.dll
+E:\VSCodeProjects\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+E:\VSCodeProjects\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+E:\VSCodeProjects\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll
+C:\Users\Daniel\Desktop\Projekt Biblioteka\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+C:\Users\Daniel\Desktop\Projekt Biblioteka\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+C:\Users\Daniel\Desktop\Projekt Biblioteka\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+C:\Users\Daniel\Desktop\Projekt Biblioteka\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+C:\Users\Daniel\Desktop\Projekt Biblioteka\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\Daniel\Desktop\Projekt Biblioteka\ConsoleApp4\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\Projekt Biblioteka\ConsoleApp4\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Daniel\Desktop\Projekt Biblioteka\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Projekt Biblioteka\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Projekt Biblioteka\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Projekt Biblioteka\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Projekt Biblioteka\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+C:\Users\Daniel\Desktop\Projekt Biblioteka\ConsoleApp4\obj\Debug\net6.0\refint\ConsoleApp4.dll
+C:\Users\Daniel\Desktop\Projekt Biblioteka\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\Daniel\Desktop\Projekt Biblioteka\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Projekt Biblioteka\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll
+C:\Users\Daniel\Desktop\Projekt Biblioteka\Daniel Kuchciński 17767 - Proejkt Biblioteka\bin\Debug\net6.0\ConsoleApp4.exe
+C:\Users\Daniel\Desktop\Projekt Biblioteka\Daniel Kuchciński 17767 - Proejkt Biblioteka\bin\Debug\net6.0\ConsoleApp4.deps.json
+C:\Users\Daniel\Desktop\Projekt Biblioteka\Daniel Kuchciński 17767 - Proejkt Biblioteka\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+C:\Users\Daniel\Desktop\Projekt Biblioteka\Daniel Kuchciński 17767 - Proejkt Biblioteka\bin\Debug\net6.0\ConsoleApp4.dll
+C:\Users\Daniel\Desktop\Projekt Biblioteka\Daniel Kuchciński 17767 - Proejkt Biblioteka\bin\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\Daniel\Desktop\Projekt Biblioteka\Daniel Kuchciński 17767 - Proejkt Biblioteka\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\Projekt Biblioteka\Daniel Kuchciński 17767 - Proejkt Biblioteka\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Daniel\Desktop\Projekt Biblioteka\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Projekt Biblioteka\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Projekt Biblioteka\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Projekt Biblioteka\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Projekt Biblioteka\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.dll
+C:\Users\Daniel\Desktop\Projekt Biblioteka\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\refint\ConsoleApp4.dll
+C:\Users\Daniel\Desktop\Projekt Biblioteka\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\Daniel\Desktop\Projekt Biblioteka\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Projekt Biblioteka\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\ref\ConsoleApp4.dll
+C:\Users\mikoa\source\repos\Daniel Kuchciński 17767 - Proejkt Biblioteka\bin\Debug\net6.0\ConsoleApp4.exe
+C:\Users\mikoa\source\repos\Daniel Kuchciński 17767 - Proejkt Biblioteka\bin\Debug\net6.0\ConsoleApp4.deps.json
+C:\Users\mikoa\source\repos\Daniel Kuchciński 17767 - Proejkt Biblioteka\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+C:\Users\mikoa\source\repos\Daniel Kuchciński 17767 - Proejkt Biblioteka\bin\Debug\net6.0\ConsoleApp4.dll
+C:\Users\mikoa\source\repos\Daniel Kuchciński 17767 - Proejkt Biblioteka\bin\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\mikoa\source\repos\Daniel Kuchciński 17767 - Proejkt Biblioteka\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mikoa\source\repos\Daniel Kuchciński 17767 - Proejkt Biblioteka\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\mikoa\source\repos\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\mikoa\source\repos\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikoa\source\repos\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\mikoa\source\repos\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.csproj.CopyComplete
+C:\Users\mikoa\source\repos\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.dll
+C:\Users\mikoa\source\repos\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\refint\ConsoleApp4.dll
+C:\Users\mikoa\source\repos\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\mikoa\source\repos\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\mikoa\source\repos\Daniel Kuchciński 17767 - Proejkt Biblioteka\obj\Debug\net6.0\ref\ConsoleApp4.dll
+C:\Users\Kmiec\Downloads\Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.dll
+C:\Users\Kmiec\Downloads\Proejkt Biblioteka\obj\Debug\net6.0\refint\ConsoleApp4.dll
+C:\Users\Kmiec\Downloads\Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\Kmiec\Downloads\Proejkt Biblioteka\bin\Debug\net6.0\ConsoleApp4.exe
+C:\Users\Kmiec\Downloads\Proejkt Biblioteka\bin\Debug\net6.0\ConsoleApp4.deps.json
+C:\Users\Kmiec\Downloads\Proejkt Biblioteka\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+C:\Users\Kmiec\Downloads\Proejkt Biblioteka\bin\Debug\net6.0\ConsoleApp4.dll
+C:\Users\Kmiec\Downloads\Proejkt Biblioteka\bin\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\Kmiec\Downloads\Proejkt Biblioteka\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kmiec\Downloads\Proejkt Biblioteka\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Kmiec\Downloads\Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\Kmiec\Downloads\Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kmiec\Downloads\Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Kmiec\Downloads\Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.csproj.CopyComplete
+C:\Users\Kmiec\Downloads\Proejkt Biblioteka\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\Kmiec\Downloads\Proejkt Biblioteka\obj\Debug\net6.0\ref\ConsoleApp4.dll
